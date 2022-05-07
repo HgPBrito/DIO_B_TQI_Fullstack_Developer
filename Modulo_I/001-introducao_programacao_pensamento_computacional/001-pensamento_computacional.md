@@ -59,3 +59,31 @@
 * **Técnica Modular**: Tem partes independentes que são controladas por um conjunto de regras.
 
 ## Fundamentos de algoritmos
+
+### Tipologia e váriaveis
+* numéricos
+* caracteres
+* lógicos
+
+### Instruções Primitivas
+São as ações feitas com as váriaveis  e constantes ou dados de entrada ou saída, exemplo cálculos matemáticos.
+
+### Estruturas condicionais e operadores
+É uma estrutura que expressa uma condição ou suposição, caso sejá satisfeita ou não executa uma determinada ação usando operadores relacionais ou operadores lógicos.
+* Simples
+* Composta
+* Encadeada
+
+### Estruturas de repetição
+É uma estrutura que repete um trecho de código com uma condição de parada.
+
+### Vetores e matrizes
+* **Vetores**: são caracterizados por uma variavel dimensionada com tamanho pré-fixado.
+
+* **Matrizes**: são tabelas organizadas por linhas e colunas.
+
+### Funções
+São sub-rotinas, blocos de instruções que realizam tarefas específicas.
+
+### Instruções de entrada e saída
+Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivo, entre outros.
