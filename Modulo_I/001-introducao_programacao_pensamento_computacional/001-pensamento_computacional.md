@@ -87,3 +87,36 @@ São sub-rotinas, blocos de instruções que realizam tarefas específicas.
 
 ### Instruções de entrada e saída
 Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivo, entre outros.
+
+## Linguagens de programação
+> A linguagem de programação é um método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+
+Conceito sempre a atualização em hardware e depois em software.
+
+### Como o computador entende o programa?
+* **Tradução**: o computador executa e analisa o programa através de um compilador transformando a linguagem de alto nivel em uma linguagem de baixo nivel para que o computador entenda.
+
+* **Transpilação**: semelhante ao de tradução mas ele transforma em uma linguagem de alto nivel que o computador já intenda para realizar a interpretação.
+
+* **Interpretação**: o computador interpreta diretamente a linguagem de alto nivel.
+
+### Características de um programa
+
+* Legibilidade: facilidade de leitura, compreensão, coerência e definição adequada das estruturas.
+
+* Redigibilidade: facilidade de escrita, suporte á abstração, reuso do código e expressividade.
+
+* Confiabilidade: verificação de tipos, tratamento de exceções, compatibilidade.
+
+* Baixo custo: treinamento, codificação, compilação, execução e infra-estrutura
+
+### Paradigmas de programação
+> Forma de resolução de problema com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação.
+
+* Orientada à objeto
+* Procedural
+* Funcional
+* Estruturado
+* Computação distribuída
+* Lógico
+
