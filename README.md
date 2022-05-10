@@ -4,9 +4,9 @@
 
 ## Módulo I - Conteúdo de abertura
 
-### 001 - Introdução ao Git e ao GitHub
+### 001 - Introdução à programação e pensamento computacional
 
-Em estudo...
+Anotações salvas na sua respectiva pasta dentro do repositório.
 
 ### 002 - Introdução ao Git e ao GitHub
 
@@ -21,3 +21,8 @@ Em estudo...
 * **GitHub** (Plataforma de repositório remoto).
 
     > https://github.com/
+
+## Módulo II - HTML / CSS3
+
+### 001 - Introdução a criação de websites com HTML5 e CSS3
+Em Estudo...
