@@ -25,4 +25,11 @@ Anotações salvas na sua respectiva pasta dentro do repositório.
 ## Módulo II - HTML / CSS3
 
 ### 001 - Introdução a criação de websites com HTML5 e CSS3
-Em Estudo...
+
+* **Documentação HTML** (Site sobre HTML).
+
+    > https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+* **Documentação CSS** (Site sobre CSS).
+
+    > https://developer.mozilla.org/pt-BR/docs/Web/CSS
